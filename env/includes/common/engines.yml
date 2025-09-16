@@ -16,22 +16,32 @@ common.engines.tk-3dsmax.location:
   name: tk-3dsmax
   version: v1.4.6
 common.engines.tk-houdini.location:
+  # type: dev
+  # path: /Users/langloj/git/sgtk/tk-houdini
   type: app_store
   name: tk-houdini
   version: v1.9.9
 common.engines.tk-maya.location:
+  # type: dev
+  # path: /Users/langloj/git/sgtk/tk-maya
   type: app_store
   name: tk-maya
   version: v0.13.7
 common.engines.tk-nuke.location:
+  # type: dev
+  # path: /Users/langloj/git/sgtk/tk-nuke
   type: app_store
   name: tk-nuke
   version: v0.16.0
 common.engines.tk-photoshopcc.location:
+  # type: dev
+  # path: /Users/langloj/git/sgtk/tk-photoshopcc
   type: app_store
   name: tk-photoshopcc
   version: v1.12.0
 common.engines.tk-aftereffects.location:
+  # type: dev
+  # path: /Users/langloj/git/sgtk/tk-aftereffects
   type: app_store
   name: tk-aftereffects
   version: v0.4.7
@@ -48,6 +58,8 @@ common.engines.tk-vred.location:
   name: tk-vred
   version: v3.5.4
 common.engines.tk-desktop.location:
+  # type: dev
+  # path: /Users/langloj/git/sgtk/tk-desktop
   type: app_store
   name: tk-desktop
   version: v2.8.0

@@ -22,11 +22,15 @@ houdini.project:
   apps:
     tk-multi-about: '@common.apps.tk-multi-about'
 
+    # tk-multi-demo: '@common.apps.tk-multi-demo'
+
     tk-multi-publish2: '@houdini.apps.tk-multi-publish2'
 
     tk-multi-loader2: '@houdini.apps.tk-multi-loader2'
 
     tk-multi-shotgunpanel: '@houdini.apps.tk-multi-shotgunpanel'
+
+    # tk-multi-pythonconsole: '@common.apps.tk-multi-pythonconsole'
 
   location: "@common.engines.tk-houdini.location"
   menu_favourites: []
@@ -34,3 +38,6 @@ houdini.project:
   - {app_instance: tk-multi-shotgunpanel, name: ''}
   launch_builtin_plugins: [basic]
   automatic_context_switch: false
+  # use_short_menu_name: true
+  # enable_sg_shelf: false
+  # debug_logging: true

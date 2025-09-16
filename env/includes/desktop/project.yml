@@ -23,6 +23,9 @@ desktop.project:
 
     tk-multi-pythonconsole: '@common.apps.tk-multi-pythonconsole'
 
+    # tk-multi-demo: '@common.apps.tk-multi-demo'
+    # tk-multi-about: '@common.apps.tk-multi-about'
+
     tk-multi-publish2:
       help_url: "@common.apps.tk-multi-publish2.help_url"
       collector: "{self}/collector.py"
